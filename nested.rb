@@ -85,7 +85,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-	programmer_hash.add{yukihiro_matsumoto: nil}
+	programmer_hash.add{:yukihiro_matsumoto => nil}
 
 end
 
